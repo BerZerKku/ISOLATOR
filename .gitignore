@@ -11,3 +11,5 @@ sim/
 *,3*
 *autosave*.*
 *.aux
+*.tag
+*.dml
