@@ -1,0 +1,13 @@
+signoise.run/
+log/
+plot/
+rep/
+sim/
+*.log
+*.bak
+*.dat
+*,1*
+*,2*
+*,3*
+*autosave*.*
+*.aux
